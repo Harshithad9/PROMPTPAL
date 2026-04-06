@@ -23,4 +23,4 @@ This project was built in under 24 hours as part of the Inovact Power-Up Challen
 
 ## 🚀 Live Preview
 
-[Live Demo]()
+[Live Demo](promptpallpro.netlify.app)
